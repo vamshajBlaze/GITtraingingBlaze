@@ -1,2 +1,2 @@
-just checking git
+just checking git .
 will change and push
